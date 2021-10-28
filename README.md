@@ -1,7 +1,7 @@
 ### Aqui quem fala é ela, a Pixila! 👋
 
-- Aprendendo HTML, CSS, JavaScript e React..
-- Dev iniciante um pouco assustada com a recolocação no mercado de trabalho..
+- Aprendendo HTML, CSS, JavaScript, Bootstrap e React..
+- Dev iniciante querendo focar em front-end e design..
 - Saiba mais sobre mim no LinkedIn: @priscilaramosoliveira 
 - Fun fact: How you doing? 🙃
 
