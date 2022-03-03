@@ -5,7 +5,7 @@
 
 ##### :computer: Atualmente, estagiando na Arpia Tecnologia.
 
-##### :baby: Dev Full-Stack, porém, com uma paixonite agude por Front e Design.
+##### :baby: Dev Full-Stack, porém, com uma paixonite imensa por Front e Design.
 
 ##### :sparkles: Saiba mais sobre mim no LinkedIn: @priscilaramosoliveira
 
