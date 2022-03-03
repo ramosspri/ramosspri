@@ -1,9 +1,9 @@
 ### Aqui quem fala é ela, a Pixila! 👋
 <br>
 
-##### :heart: Aprendendo HTML, CSS, JavaScript, Bootstrap e React.
+##### :heart: Desenvolvendo em HTML, CSS, JavaScript, TypeScript, Bootstrap e React.
 
-##### :computer: Atualmente, estagiando na Arpia Tecnologia.
+##### :computer: Atualmente, estagiando na Arpia Tecnologia e cursando Análise e Desenvolvimento de Sistemas.
 
 ##### :baby: Dev Full-Stack, porém, com uma paixonite imensa por Front e Design.
 
