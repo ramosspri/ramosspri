@@ -1,9 +1,16 @@
 ### Aqui quem fala é ela, a Pixila! 👋
+<br>
 
-- Aprendendo HTML, CSS, JavaScript, Bootstrap e React..
-- Dev iniciante querendo focar em front-end e design..
-- Saiba mais sobre mim no LinkedIn: @priscilaramosoliveira 
-- Fun fact: How you doing? 🙃
+##### :heart: Aprendendo HTML, CSS, JavaScript, Bootstrap e React.
+
+##### :computer: Atualmente, estagiando na Arpia Tecnologia.
+
+##### :baby: Dev Full-Stack, porém, com uma paixonite agude por Front e Design.
+
+##### :sparkles: Saiba mais sobre mim no LinkedIn: @priscilaramosoliveira
+
+##### :fire: Fun fact: How you doing? :smirk:
+<br><br>
 
 <div>
   <a href="https://github.com/ramosspri">
