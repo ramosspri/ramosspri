@@ -1,11 +1,11 @@
 ### Aqui quem fala é ela, a Pixila! 👋
 <br>
 
-##### :heart: Desenvolvendo em Flutter, Dart, React e utilizando Clean Architecture.
+##### :heart: Desenvolvendo em Flutter, Dart e utilizando Clean Architecture.
 
-##### :computer: Atualmente, desenvolvedor(a) júnior na Arpia Tecnologia.
+##### :computer: Atualmente, desenvolvedora Flutter na Promobit.
 
-##### :baby: Dev Front-End com uma paixonite imensa por design.
+##### :baby: Dev Front-End com uma paixonite imensa por design e mobile.
 
 ##### :sparkles: Saiba mais sobre mim no LinkedIn: @priscilaramosoliveira
 
@@ -19,7 +19,6 @@
 </div>  
 <div style="display: inline_block"><br>
   <img align="center" alt="Pri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Pri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="Pri-Flutter" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
