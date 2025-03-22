@@ -1,13 +1,13 @@
 ### Aqui quem fala é ela, a Pixila! 👋
 <br>
 
-##### :heart: Desenvolvendo em Flutter, Dart e utilizando Clean Architecture.
+##### :heart: Desenvolvendo, atualmente, em Flutter
 
-##### :computer: Atualmente, desenvolvedora Flutter na Promobit.
+##### :computer: Desenvolvedora Flutter Jr. no Promobit
 
-##### :baby: Dev Front-End com uma paixonite imensa por design e mobile.
+##### :baby: Dev Front-End com uma paixonite imensa por design e mobile
 
-##### :sparkles: Saiba mais sobre mim no LinkedIn: @priscilaramosoliveira
+##### :sparkles: Saiba mais sobre mim no LinkedIn: @ramosspri
 
 ##### :fire: Fun fact: How you doing? :smirk:
 <br><br>
