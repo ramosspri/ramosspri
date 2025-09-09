@@ -1,16 +1,10 @@
-### Aqui quem fala é ela, a Pixila! 👋
-<br>
+### :fire: How you doing? :smirk:
 
-##### :heart: Desenvolvendo, atualmente, em Flutter
+##### Desenvolvedora Flutter no Promobit
 
-##### :computer: Desenvolvedora Flutter Jr. no Promobit
+##### Mobile, porém com uma paixonite imensa por design
 
-##### :baby: Dev Front-End com uma paixonite imensa por design e mobile
-
-##### :sparkles: Saiba mais sobre mim no LinkedIn: @ramosspri
-
-##### :fire: Fun fact: How you doing? :smirk:
-<br><br>
+##### Saiba mais sobre mim no LinkedIn: @ramosspri
 
 <div>
   <a href="https://github.com/ramosspri">
