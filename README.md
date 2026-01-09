@@ -1,6 +1,6 @@
 ### :fire: How you doing? :smirk:
 
-##### Desenvolvedora Flutter no Promobit
+##### Desenvolvedora Flutter com +3 anos de experiência
 
 ##### Mobile, porém com uma paixonite imensa por design
 
